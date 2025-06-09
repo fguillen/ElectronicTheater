@@ -1,0 +1,64 @@
+0 | move: Narrator, position: center
+0 | say: Narrator, "Welcome, children, to our magical forest! Here, you will meet some wonderful creatures with unique stories to tell."
+
+3 | move: The Cunning Fox, position: left
+3 | say: The Cunning Fox, "Hello there! I'm the Cunning Fox. I love a good trick or two and always find a way to get what I want!"
+
+7 | move: The Old Tortoise, position: right
+7 | say: The Old Tortoise, "Greetings, young ones. I am the Old Tortoise. I take my time, but I always reach my goals."
+
+12 | move: The Timid Mouse, position: center
+12 | say: The Timid Mouse, "Hi... I'm the Timid Mouse. I might be small, but I can be brave when I need to be."
+
+16 | move: The Watchful Owl, position: out_of_scenario
+16 | say: The Watchful Owl, "Hoo... hoo... I see everything from above. Listen well, for I have riddles to share."
+
+21 | move: The Cunning Fox, position: center
+21 | say: The Cunning Fox, "Old Tortoise, you're so slow! Why don't you try racing with me?"
+
+25 | say: The Old Tortoise, "Oh, Fox, slow and steady wins the race. But I'll accept your challenge."
+
+30 | move: The Timid Mouse, position: left
+30 | say: The Timid Mouse, "I... I can help! I know a shortcut through the grass."
+
+35 | move: The Watchful Owl, position: center
+35 | say: The Watchful Owl, "To win the race, you must be wise. Solve my riddle, and you'll be surprised."
+
+40 | say: The Cunning Fox, "We don't need riddles, Owl. Let's just run!"
+
+43 | move: The Old Tortoise, position: left
+43 | say: The Old Tortoise, "Patience, Fox. I want to hear the riddle."
+
+47 | say: The Watchful Owl, "What has a heart that doesn't beat?"
+
+50 | move: The Timid Mouse, position: center
+50 | say: The Timid Mouse, "Oh! I know! It's an artichoke!"
+
+53 | move: The Cunning Fox, position: right
+53 | say: The Cunning Fox, "Artichoke? That's just silly! Let's race!"
+
+57 | move: Narrator, position: center
+57 | say: Narrator, "And so, the race began! The Fox dashed ahead, but the Tortoise and Mouse took the shortcut."
+
+62 | move: The Cunning Fox, position: right
+62 | say: The Cunning Fox, "I'm way ahead! I'll just take a nap here."
+
+66 | move: The Old Tortoise, position: left
+66 | say: The Old Tortoise, "Slow and steady, Mouse. We're almost there."
+
+70 | move: The Timid Mouse, position: left
+70 | say: The Timid Mouse, "We did it! We reached the finish line first!"
+
+74 | move: The Cunning Fox, position: center
+74 | say: The Cunning Fox, "What? How... how did you win?"
+
+77 | move: The Old Tortoise, position: center
+77 | say: The Old Tortoise, "With patience and a little help from friends, Fox."
+
+81 | move: The Watchful Owl, position: out_of_scenario
+81 | say: The Watchful Owl, "Hoo... hoo... remember, cleverness is good, but wisdom is better."
+
+85 | move: Narrator, position: center
+85 | say: Narrator, "And so, the Fox learned the value of wisdom and friendship. Thank you for joining us in our magical forest!"
+
+90 | move: All characters, position: out_of_scenario

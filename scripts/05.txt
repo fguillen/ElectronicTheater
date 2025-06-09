@@ -1,0 +1,61 @@
+model: deepseek/deepseek-r1
+
+**Title:** *The Race of Wits*
+
+**Characters:** 🦊 The Cunning Fox, 🐢 The Old Tortoise, 🦉 The Watchful Owl (minor), 🐭 The Timid Mouse (cameo)
+
+---
+
+**0 | Narrator:** *"A sunlit forest clearing. Birds chirp. Enter the Cunning Fox, prowling with hunger in his eyes."*
+**10 | move:** Fox, position: center
+**10 | say:** Fox, *"A fine morning for a feast… if only I could find one. My belly grumbles like a thunderstorm!"*
+
+**20 | move:** Tortoise, position: left
+**20 | Narrator:** *"The Old Tortoise shuffles into view, a ripe apple balanced on his shell."*
+**30 | say:** Tortoise, *"Patience, young Fox. The forest provides—if you wait."*
+
+**40 | move:** Fox, position: left
+**40 | say:** Fox, *"Wait? Ha! I’d rather* take. *That apple looks… convenient."*
+**50 | say:** Tortoise, *"You’re welcome to try. But perhaps we’ll bargain. Race me around the clearing. Win, and it’s yours."*
+
+**60 | say:** Fox, *"A race? With* you? *This’ll be easier than stealing eggs!"*
+**65 | move:** Fox, position: right
+**65 | Narrator:** *"The Fox dashes to the starting line, tail flicking with arrogance."*
+
+**70 | move:** Tortoise, position: center
+**70 | Narrator:** *"The Tortoise sighs, glancing upward. The Owl watches silently from a branch."*
+**75 | move:** Owl, position: out_of_scenario → right (tree)
+
+**80 | Narrator:** *"A tiny Mouse peeks from a log, clutching a leaf like a shield."*
+**80 | move:** Mouse, position: left (log)
+**85 | say:** Mouse, *"Oh dear… I hope nobody gets hurt!"*
+
+**90 | Narrator:** *"The race begins! Fox sprints—but pauses to taunt."*
+**90 | say:** Fox, *"Still at the start, old one? Hurry up, or I’ll nap mid-victory!"*
+**100 | move:** Fox, position: center → right → out_of_scenario (looping)
+
+**110 | Narrator:** *"The Fox zigzags, chasing butterflies, wasting time. The Tortoise plods forward, steady as a river."*
+**120 | move:** Tortoise, position: center → right (gradual)
+
+**130 | say:** Owl, *"Speed blinds. Stillness sees."*
+**130 | move:** Owl, position: right (tree) → center (lower branch)
+
+**140 | Narrator:** *"The Fox, panting, realizes the Tortoise is inches from the finish."*
+**140 | move:** Fox, position: out_of_scenario → center
+**140 | say:** Fox, *"No! How—?!"*
+
+**150 | move:** Tortoise, position: right (finish line)
+**150 | say:** Tortoise, *"You ran circles, but I ran* forward. *The apple is yours… if you still want it."*
+
+**160 | say:** Fox, *"I… I’ll fetch my own."*
+**165 | move:** Fox, position: center → out_of_scenario (sheepish)
+
+**170 | say:** Mouse, *"Oh! Maybe Fox isn’t so scary after all…"*
+**170 | move:** Mouse, position: left (log) → out_of_scenario
+
+**175 | say:** Owl, *"Wisdom walks. Folly flies."*
+**180 | move:** Owl, position: center → out_of_scenario
+
+**185 | Narrator:** *"The Tortoise smiles, nibbling his apple, as the forest hums with lessons learned."*
+
+**END**

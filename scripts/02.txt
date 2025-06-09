@@ -1,0 +1,70 @@
+**Title: The Curious Adventure in Whispering Woods**
+
+**Narrator:**
+0 | say: Narrator, Welcome to Whispering Woods! Today, brave friends are on a special adventure to find the lost sparkle stone. Let’s see what happens!
+
+**Scene opens with the Old Tortoise slowly walking to the center, the Fox sneaking around nearby.**
+
+1 | move: Old Tortoise, position: center
+2 | say: Old Tortoise, Ah, patience is the key. We must stay calm and think carefully.
+
+3 | move: The Cunning Fox, position: left
+4 | say: Fox, I have a clever plan! I’ll find the sparkle stone first, and I’ll be famous!
+
+5 | move: The Singing Frog, position: right
+6 | say: Frog, Ribbit! Sometimes, a little joy and surprise can help us find our way!
+
+**Suddenly, the Watchful Owl appears silently on a tree branch.**
+
+7 | move: The Watchful Owl, position: out_of_scenario
+8 | say: Owl, (cryptic) Wisdom is a quiet friend. Listen closely, and you will see the truth.
+
+**Fox tiptoes toward a shiny spot, but it’s a tricky trap!**
+
+9 | move: The Fox, position: center
+10 | say: Fox, Hmm, this looks easy! I’ll grab it quickly.
+
+**The trap snaps! Fox looks surprised.**
+
+11 | move: The Fox, position: out_of_scenario
+12 | say: Fox, Oh no! That was not clever after all.
+
+**Old Tortoise slowly moves toward the shiny spot, carefully.**
+
+13 | move: Old Tortoise, position: center
+14 | say: Old Tortoise, Sometimes, slow and steady wins the race.
+
+**The Tortoise gently picks up the sparkle stone.**
+
+15 | move: The Old Tortoise, position: center
+16 | say: Old Tortoise, See? Patience helps us find what truly matters.
+
+**Frog hops happily around.**
+
+17 | move: The Singing Frog, position: right
+18 | say: Frog, Ribbit! Joy and kindness make the journey fun!
+
+**The Owl swoops down quietly.**
+
+19 | move: The Watchful Owl, position: center
+20 | say: Owl, (cryptic) The best treasures are found when you trust your friends.
+
+**The Mouse timidly steps forward, looking nervous but brave.**
+
+21 | move: The Timid Mouse, position: out_of_scenario
+22 | say: Mouse, I may be small, but I can help in my own quiet way.
+
+**The Mouse gently nudges the trap open with a tiny stick, freeing Fox.**
+
+23 | move: The Mouse, position: center
+24 | say: Mouse, Sometimes, the smallest hero makes the biggest difference.
+
+**Everyone gathers happily, smiling.**
+
+25 | move: Old Tortoise, position: center
+26 | say: Old Tortoise, Working together, we find the real treasure: friendship and patience.
+
+**Narrator:**
+27 | say: Narrator, And so, the friends learned that being patient, trusting each other, and staying kind makes every adventure special. The sparkle stone was just a reminder of their teamwork. The end!
+
+**Curtain closes.**

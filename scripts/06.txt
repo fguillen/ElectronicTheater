@@ -1,0 +1,89 @@
+Model: google/gemma-3-4b-it
+
+Okay, here's a script for a 2-3 minute theater piece featuring the Cunning Fox, the Old Tortoise, and the Watchful Owl, centered around a small adventure.
+
+**Title: The Lost Echo**
+
+**Setting:** A moss-covered forest clearing, dappled with sunlight. A small, ancient stone well sits center stage.
+
+**Characters:**
+
+*   🦊 The Cunning Fox
+*   🐢 The Old Tortoise
+*   🦉 The Watchful Owl (represented by a silent figure in a tall, feathered costume)
+*   🐭 The Timid Mouse
+
+---
+
+**Script:**
+
+<0> | move: Narrator, position: center
+Narrator: “Deep within Whisperwood, where the trees remember every secret, lies a well said to hold the lost echo of a forgotten song.  A song of joy, now trapped and silent.  Few dare to seek it, fearing the woods’ tricks.”
+
+<10> | move: 🦊, position: right
+🦊: (Slipping into the clearing with a sly grin) “Tricks, you say?  I thrive on tricks!  A lost echo, you say?  Sounds like a delightful puzzle.”
+
+<15> | move: 🐢, position: center
+🐢: (Slowly approaching the well) “Haste makes waste, little fox.  The echo isn't found with speed, but with patience and a listening heart.”
+
+<20> | move: 🦉, position: out_of_scenario
+(A soft hoot echoes – the Owl remains still, observing.)
+
+<25> | move: 🦊, position: center
+🦊: (To the Tortoise, feigning respect) “Patience?  My dear tortoise, I *am* patient.  I simply have a… more efficient method.” (He circles the well, examining it suspiciously.)
+
+<30> | move: 🐭, position: out_of_scenario
+(A tiny squeak is heard)
+🐭: (Whispering) "It's... it's sad. The well feels empty."
+
+<35> | move: 🦊, position: left
+🦊: (Ignoring the Mouse) "I believe I’ve detected a disturbance.  A faint vibration... it’s trapped beneath a layer of moss!” (He starts frantically pulling at the moss, creating a mess.)
+
+<40> | move: 🐢, position: center
+🐢: “Stop! You’re disturbing the very essence of the well!  Let’s *feel* for the echo.” (He gently touches the stone.)
+
+<45> | move: 🦉, position: out_of_scenario
+(Another hoot – a little louder this time.)
+
+<50> | move: 🐭, position: right
+(The Mouse, emboldened by the Owl’s presence, cautiously approaches the well and peers inside.)
+🐭: "I... I hear something! A tiny shimmer... like light!"
+
+<55> | move: 🦊, position: center
+🦊: (Frustrated) “Light?  It’s just reflected sunlight!  I was about to solve this!”
+
+<60> | move: 🐢, position: center
+🐢: “Look closer, fox.  The shimmer *is* the echo.  It needs a gentle hand, not a forceful grab.”
+
+<65> | move: 🐭, position: center
+(The Mouse carefully reaches into the well and retrieves a small, smooth stone. As he does, a faint, beautiful melody begins to emanate from the well.)
+
+<70> | move: 🦊, position: out_of_scenario
+(The Fox stares, momentarily stunned.)
+
+<75> | move: 🦉, position: out_of_scenario
+(A final, resonant hoot – the Owl slowly turns its head to gaze upon the well.)
+
+<80> | move: 🐢, position: center
+🐢: “The echo remembers kindness, little mouse.  Sometimes, the smallest among us hold the greatest wisdom.”
+
+<85> | move: 🦊, position: center
+🦊: (Slightly ashamed) “Well, I… I suppose you were right.  Perhaps a little humility is a good trick after all.”
+
+<90> | move: Narrator, position: center
+Narrator: “And so, the lost echo of Whisperwood was restored, not by cunning or force, but by a gentle heart and a listening soul. The forest breathed a sigh of contentment, and the little mouse, once timid, was remembered as the one who brought the song back to life.”
+
+---
+
+**Notes:**
+
+*   **Movement:**  The script focuses on clear movement to create visual interest.
+*   **Sound:**  Consider adding subtle sound effects – rustling leaves, the trickle of water, the owl's hoots – to enhance the atmosphere.
+*   **Character Interactions:** Encourage the actors to embody the core personalities of each character. The Fox should be playful and slightly arrogant, the Tortoise patient and wise, the Owl mysterious, the Mouse small and vulnerable yet determined, and the Narrator should be a warm and inviting presence.
+*   **Simplicity:** This script is designed to be relatively simple to stage, focusing on the core story and character interactions.
+
+Would you like me to:
+
+*   Expand on any particular scene?
+*   Add more dialogue?
+*   Adjust the timing?

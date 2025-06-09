@@ -1,0 +1,50 @@
+0 | move: The Cunning Fox, position: left
+0 | move: The Old Tortoise, position: right
+0 | move: The Singing Frog, position: center
+
+2 | say: The Singing Frog, "Hello, everyone! Ready for a fun adventure?"
+
+4 | say: The Cunning Fox, "I have a tricky plan today. Let’s see who can outsmart whom!"
+
+6 | say: The Old Tortoise, "Slow and steady wins the race. Think carefully before rushing."
+
+8 | say: The Singing Frog, "Oh! I’ll sing a song to help us decide!"
+
+10 | move: The Singing Frog, position: out_of_scenario
+
+10 | say: The Fox, "I will hide something clever and see if the others can find it."
+
+12 | say: The Old Tortoise, "Patience is key. Let’s look slowly and carefully."
+
+14 | move: The Fox, position: right
+16 | say: The Fox, "Hmm, where did I hide it? Maybe behind that tree."
+
+18 | move: The Old Tortoise, position: left
+20 | say: The Old Tortoise, "Look carefully, Fox. Sometimes, the best tricks are simple."
+
+22 | move: The Watchful Owl, position: center, out_of_scenario
+24 | say: The Owl, "A riddle for you: I’m not alive, but I grow; I don’t have lungs, but I need air. What am I?"
+
+26 | say: The Fox, "A riddle! Hmm… Is it fire?"
+
+28 | say: The Owl, "Yes! Clever Fox."
+
+30 | move: The Owl, position: out_of_scenario
+
+30 | say: The Old Tortoise, "See? Sometimes, the simplest answer is the best."
+
+32 | move: The Singing Frog, position: center
+34 | say: The Singing Frog, "And sometimes, a little song can help us see the fun in the game!"
+
+36 | move: The Fox, position: left
+38 | say: The Fox, "All right! I admit, patience and thinking are good. Maybe I’ll try that next time."
+
+40 | say: The Old Tortoise, "Remember, slow and steady can win any race."
+
+42 | move: The Fox, position: center
+44 | say: The Fox, "Thanks, friends! Today, I learned to be clever and patient, too."
+
+46 | move: The Singing Frog, position: center
+48 | say: The Singing Frog, "Hooray! Now let’s sing and celebrate our fun day!"
+
+50 | all characters, together, cheer and wave, out_of_scenario
